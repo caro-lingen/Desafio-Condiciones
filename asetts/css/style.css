@@ -1,0 +1,30 @@
+.imagen{
+    padding: 10px;
+    margin: 10px;
+    cursor: pointer;
+    border: none;
+    
+}
+
+body{
+    text-align: center;
+}
+
+.container{
+    text-align: center;
+    margin: 10px;
+    display: inline-block;
+}
+.container img{
+    display: block;
+}
+.container input{
+    margin: 10px;
+}
+button{
+    display:flex;
+    cursor: pointer;
+    align-items: center;
+ 
+}
+
